@@ -1,2 +1,2 @@
 # KAIST_CS372-NLP_with_python
-Codes for homework and projects for CS372
+My assignment submission codes for Natural Language Processing course at KAIST
